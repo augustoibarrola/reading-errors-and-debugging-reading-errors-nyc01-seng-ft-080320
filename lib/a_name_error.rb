@@ -1,1 +1,1 @@
-"hello world"
+load = "hello world"
