@@ -1,3 +1,1 @@
-"hello world"
-
-"hello world"
+say hello = "hello world"
